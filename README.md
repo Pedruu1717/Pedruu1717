@@ -1,6 +1,6 @@
 ## 😎 Hello Mr./Ms. Anderson.
 ### 🤔 Why, Mr./Ms. Anderson? Why? Why do you persist?
-![matrix](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif)
+![N](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif) ![E](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif) ![O](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif)
 
 <!--
 **Pedruu1717/Pedruu1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
