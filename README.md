@@ -1,5 +1,5 @@
 ## 😎 Hello Mr./Ms. Anderson.
-### 🤔 Why, Mr./Ms. Anderson? Why? Why do you persist?
+
 ![N](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif) ![E](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif) ![O](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif)
 
 [![LinkedIn badge](https://img.shields.io/badge/-pedro_melo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-da-silva-melo)
