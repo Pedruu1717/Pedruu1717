@@ -2,6 +2,9 @@
 ### 🤔 Why, Mr./Ms. Anderson? Why? Why do you persist?
 ![N](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif) ![E](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif) ![O](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif)
 
+[![LinkedIn badge](https://img.shields.io/badge/-pedro_melo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-da-silva-melo)
+[![Instagram badge](https://img.shields.io/badge/-@pedro_dasilvamelo-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pedro_dasilvamelo/)
+
 <!--
 **Pedruu1717/Pedruu1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
