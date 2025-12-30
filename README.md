@@ -5,7 +5,7 @@
 [![LinkedIn badge](https://img.shields.io/badge/-pedro_melo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-da-silva-melo)
 [![Instagram badge](https://img.shields.io/badge/-@pedro_dasilvamelo-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pedro_dasilvamelo/)
 
-Have a look at my website: http://pedromelo.xyz
+Have a look at my personal website: http://pedromelo.xyz
 <!--
 **Pedruu1717/Pedruu1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
