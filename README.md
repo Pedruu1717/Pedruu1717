@@ -2,7 +2,7 @@
 
 ![N](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif) ![E](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif) ![O](https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif)
 
-[![Linktree](https://img.shields.io/badge/-personal_website-green?style=for-the-badge&logoColor=white)](https://linktr.ee/pedro__melo)
+[![Linktree](https://img.shields.io/badge/-Linktree-green?style=for-the-badge&logoColor=white)](https://linktr.ee/pedro__melo)
 
 <!--
 **Pedruu1717/Pedruu1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
