@@ -5,7 +5,7 @@
 [![Linktree](https://img.shields.io/badge/-Linktree-green?style=for-the-badge&logoColor=white)](https://linktr.ee/pedro__melo)
 
 
-### 🔭 I’ve worked as:
+### 🔭 I have worked as:
 
   ### Frontend Web Developer at Connexall:
   
