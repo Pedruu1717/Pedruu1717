@@ -7,7 +7,7 @@
 
 ### 🔭 I have worked as:
 
-  ### Frontend Web Developer at Connexall:
+  ### • Frontend Web Developer at Connexall:
   
   Responsibilities:
 
@@ -20,3 +20,5 @@
   - Responsible for updating the server whenever a new version of the application is developed.
 
   - Responsible for collaborating with other members of the front-end, back-end and design teams, and also for participating in meetings aimed at presenting what has been done and analysing what can be done to          improve the application.
+
+  ### • Fullstack Web Developer at Parcela Já
