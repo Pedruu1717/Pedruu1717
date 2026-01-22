@@ -7,7 +7,7 @@
 
 ### 🔭 I have worked as:
 
-  ### • Frontend Web Developer at Connexall:
+  ### • Frontend Web Developer at Connexall
   
   Responsibilities:
 
