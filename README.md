@@ -4,6 +4,9 @@
 
 [![Linktree](https://img.shields.io/badge/-Linktree-green?style=for-the-badge&logoColor=white)](https://linktr.ee/pedro__melo)
 
+### 📚 Education:
+
+🎓 MsC in Software Engineering @ Universidade do Minho
 
 ### 🔭 I have worked as:
 
