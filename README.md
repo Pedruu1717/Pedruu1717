@@ -1,5 +1,10 @@
 ## 😎 Hello Mr. Anderson
 
+<img align="right" width="100" height="100" src="https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif">
+<img align="right" width="100" height="100" src="https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif">
+<img align="right" width="100" height="100" src="https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif">
+<img align="right" width="100" height="100" src="https://github.com/Pedruu1717/Pedruu1717/blob/main/blob/matrix.gif">
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white)](https://linkedin.com/in/pedromelo17)
 
 ### 📚 Education:
