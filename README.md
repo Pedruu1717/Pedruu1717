@@ -8,7 +8,8 @@
 
 ### 📚 Education:
 
-🎓 MsC in Software Engineering @ Universidade do Minho
+### 🎓 MsC in Software Engineering @ Universidade do Minho
+<br>
 
 ### 🔭 I have worked as:
 
@@ -30,6 +31,6 @@
   
   Responsibilities:
 
-  - Learn the Symfony fullstack framework (built a small project with a website shop for selling guitars).
+  - Learn the Symfony fullstack framework (Php) (built a small project with a website shop for selling guitars).
   
   - Develop unit and functional tests using PhpUnit to test the API used for making payments through the point-of-sale (POS) terminal.
